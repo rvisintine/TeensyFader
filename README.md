@@ -1,5 +1,7 @@
 # USB MIDI Crossfader
 
+![Teensy Fader](images/teensyfader.jpeg)
+
 I wanted a simple MIDI crossfader for using with Traktor and Ableton.  I couldn't find anything I liked so decided to build my own.  The Mini Innofader Plus I used is way overkill, you could swap it out with something cheaper. It should work just fine with the Teensy code as is, you'd just need to tweak the case to fit whatever you buy.  You'll need some basic soldering tools and skills, and a 3d printer to complete this project.
 
 
